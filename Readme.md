@@ -24,17 +24,16 @@
 <br />
 <br />
 
-<details>
+---
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=timmyceberus"/>
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=timmyceberus&layout=compact"/>
 
-</details>
 
-<details>
+---
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=timmyceberus&show_icons=true&theme= tokyonight"/>
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=timmyceberus&show_icons=true&theme= tokyonight&count_private=true"/>
 
-</details>
+
 
 ---
 
