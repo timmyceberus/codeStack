@@ -25,15 +25,12 @@
 
 ---
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timmyceberus)](https://github.com/timmyceberus)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timmyceberus&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
----
 
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=timmyceberus&show_icons=true&theme= tokyonight&count_private=true"/>
 
 
-
----
 
 
