@@ -16,16 +16,16 @@
 <img align="left" alt="TS" width="100px" src="https://camo.githubusercontent.com/ee71fcc1aa3d059265517741dffc4161922fd744377e7a5f07c43381d0aa9aac/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f747970657363726970742d2532333030374143432e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d74797065736372697074266c6f676f436f6c6f723d7768697465" />
 <img align="left" alt="Node.js" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="MySQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="C" width="50px" src="https://camo.githubusercontent.com/5859172b2d0854f4d70d35118ae1fbb8d92f967ea654f1bb1bdae4a346d03926/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f632d2532333030353939432e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d63266c6f676f436f6c6f723d7768697465" />
+<img align="left" alt="WS" width="100px" src="https://camo.githubusercontent.com/60c43d8b0424c6c2fc5080f76db747aacec85a375c39ce2835622cc03a608059/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f77656273746f726d2d3134333f7374796c653d666f722d7468652d6261646765266c6f676f3d77656273746f726d266c6f676f436f6c6f723d776869746526636f6c6f723d626c61636b" />
 
 <br />
 <br />
 
 ---
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timmyceberus)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timmyceberus)](https://github.com/timmyceberus)
 
 
 ---
